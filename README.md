@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 paul-the-octopus
 ==============================
 
@@ -49,3 +50,7 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+=======
+# paul-the-octopus
+Predict Soccer Games
+>>>>>>> e7c6e2466896c477ac34b0eff896bdcbd81331d3
